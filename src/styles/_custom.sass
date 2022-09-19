@@ -2,13 +2,16 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    z-index: 2
+    width: 500px
+    top: 15%
+    right: 10%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float2 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    width: 350px
+    top: 44.6%
+    right: 22%
 
 
 @keyframes float1
@@ -17,3 +20,12 @@
 
   100%
     transform: translateY(0px)
+@keyframes float2
+  0%
+    transform: translateX(20px)
+
+  100%
+    transform: translateX(0px)
+
+.tabs-a__tab
+  background-color: #E8E8E8
