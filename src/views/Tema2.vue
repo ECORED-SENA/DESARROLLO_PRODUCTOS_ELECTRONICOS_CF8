@@ -388,6 +388,74 @@
     p.mb-5 Es importante contar con recipientes para el almacenamiento de estos materiales, en algunos casos será necesario usar empaques para los elementos que lo requieran, por ejemplo, bolsas antiestáticas para tarjetas sensibles a este fenómeno físico.
 
     Separador
+
+    .titulo-segundo.color-acento-contenido
+      h2#t_2_2 2.2 Disposición final de residuos peligrosos
+    
+    .d-flex.flex-wrap.mb-5
+      .col-xl-8.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1
+        p Los residuos de aparatos eléctricos y electrónicos se pueden clasificar dependiendo de su destino final. En el proceso inicial de separación, se determinan algunas características, lo que hace más fácil la separación. El mercado de reciclaje para las fracciones de RAEE es muy cambiante, el reuso y otras áreas pueden ser muy provechosas.
+        .cajon.color-secundario.p-4.d-flex.flex-wrap(style="background-color: #EFDBEF")
+          img.mb-4.mb-lg-0.col-lg-1.mx-auto(src="@/assets/curso/temas/tema2/decorador-1.svg" style="max-width: 70px")
+          .col-md-11.ps-lg-4
+            p Los condensadores electrolíticos contienen compuestos inorgánicos, ácidos orgánicos con diversos disolventes y aditivos anticorrosivos, sustancias que pueden contaminar el agua, por lo que se les considera elementos peligrosos.
+      img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema2/img-5.jpg" style="max-width: 400px")
+
+    p.mb-5 Para la disposición final de estos materiales se requiere seguir los lineamientos dispuestos. El convenio de Basilea sobre #[em.fw-bold(style="color: #A50491") El control de los movimientos transfronterizos de los desechos peligrosos y su eliminación] dictamina algunos procedimientos a seguir, como se presenta en la siguiente figura.
+
+
+    .col-xl-10.mx-auto.mb-5
+      .titulo-sexto.color-acento-contenido
+        h5 Figura 6.
+        span Clasificación
+      .d-flex.flex-wrap.p-4.edit-bg-t2(
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/bg-1.svg')})`}"
+      )
+        .col-lg-7.order-2.order-lg-1
+          h4.mb-4.texto-blanco ¿Qué hacer con los condensadores PCB y los condensadores electrolíticos que superan el criterio de la directiva RAEEE de la Unión Europea?
+          .col-lg-10.mx-auto
+            .tarjeta-avatar-b.mb-4
+              .tarjeta-avatar-b__img
+                img(src='@/assets/curso/temas/tema2/decorador-2.svg' style="max-width: 70px")
+              .tarjeta(style="margin-left: -13%; background-color: #FDF2C8; border: 2px solid #FFD947")
+                .p-3
+                  p.mb-0 Incineración con alta temperatura para residuos peligrosos en espacios adecuados para ello.
+            .tarjeta-avatar-b.mb-4
+              .tarjeta-avatar-b__img
+                img(src='@/assets/curso/temas/tema2/decorador-3.svg' style="max-width: 70px")
+              .tarjeta(style="margin-left: -13%; background-color: #FDF2C8; border: 2px solid #FFD947")
+                .p-3
+                  p.mb-0 Incineración con alta temperatura para residuos peligrosos en espacios adecuados para ello.
+        img.col-lg-5.mx-auto.mb-4.mb-lg-0.order-1.order-lg-2.banner-principal-decorativo-1.position-relative(src="@/assets/curso/temas/tema2/img-6.svg" style="right: 0; max-width: 300px")
+    p.mb-5 A los acumuladores y baterías pequeñas, por su parte, se les debe hacer un tratamiento especial para su disposición final. #[b(style="color: #A50491") Es importante que se les dé un uso adecuado ya que estas contienen sustancias que resultan perjudiciales para el medio ambiente y la salud.]
+
+    .titulo-sexto.color-acento-contenido
+      h5 Tabla 1.
+      span Clasificación de los acumuladores según convenio de Basilea
+    
+    .tabla-b.color-primario.mb-5
+      .tabla-b__header
+        h4.text-start.mb-0(style="color: black") Niveles del lenguaje
+      table
+        tr
+          th A1160
+          td Acumuladores de plomo de desecho, enteros o triturados.
+        tr
+          th A1170
+          td Acumuladores de desecho sin seleccionar excluidas mezclas de acumuladores sólo de las lista B. Los acumuladores de desecho no incluidos en la lista B que contengan constituyentes del anexo I en tal grado que los conviertan en peligrosos.
+      .tabla-b__header
+        h4.text-start.mb-0(style="color: black") Lista B
+      table
+        caption(style="font-weight: normal") #[b Nota:] Adaptado de PNUMA 
+        tr
+          th B1090
+          td Baterías de desecho que se ajusten a una especificación, con exclusión de los fabricados con plomo, cadmio o mercurio.
+    
+    .cajon.color-primario.p-4.d-flex.flex-wrap
+      img.mb-4.mb-lg-0.col-lg-1.mx-auto(src="@/assets/curso/temas/tema2/decorador-4.svg" style="max-width: 70px")
+      .col-md-11.ps-lg-4
+        p En Colombia existen algunas regulaciones para la disposición final de los acumuladores, entre las que se encuentran: la Resolución 372 de 2009. "Por la cual se establecen los elementos que deben contener los Planes de Gestión de Devolución de Productos Posconsumo de Baterías Usadas Plomo Ácido, y se adoptan otras disposiciones" y el Decreto 4741 de 2005. "Por el cual se reglamenta parcialmente la prevención y el manejo de los residuos o desechos peligrosos generados en el marco de la gestión integral".
+
 </template>
 
 <script>
