@@ -76,12 +76,12 @@ const router = new VueRouter({
           /* webpackChunkName: "referencias" */ '../../node_modules/ecored-base-pkg/src/views/Referencias.vue'
         ),
     },
-    {
-      path: '/sintesis',
-      name: 'sintesis',
-      component: () =>
-        import(/* webpackChunkName: "sintesis" */ '../views/sintesis.vue'),
-    },
+    // {
+    //   path: '/sintesis',
+    //   name: 'sintesis',
+    //   component: () =>
+    //     import(/* webpackChunkName: "sintesis" */ '../views/sintesis.vue'),
+    // },
     {
       path: '/creditos',
       name: 'creditos',
