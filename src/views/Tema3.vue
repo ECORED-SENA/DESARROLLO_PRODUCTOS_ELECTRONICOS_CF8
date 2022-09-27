@@ -70,6 +70,29 @@
     Separador
 
     .titulo-segundo.color-acento-contenido
+      h2#t_3_2 3.2 Almacenamiento de residuos
+    
+    .p-3.mb-4.d-flex.flex-wrap.align-items-center
+      img.mb-4.mb-lg-0.col-lg-1.mx-auto(src="@/assets/curso/temas/tema3/decorador-2.svg" style="max-width: 85px")
+      .col-md-11.ps-lg-4
+        p.mb-0 Con excepción de los componentes con productos químicos volátiles, como los toner de impresoras, no existe mayor riesgo para el almacenamiento de los residuos, las medidas que se deben tomar son para proteger al mismo componente, sobre todo si el fin es la reutilización.
+          br
+          br
+          |Muchos componentes electrónicos necesitan ser protegidos contra las descargas electrostáticas por lo que su almacenamiento requiere de bolsas o esponjas que los aislen de estas descargas. 
+
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-4.jpg')})`}"
+      )
+      .bloque-texto-g__texto.p-4.py-lg-5
+        h4 Clasificación para reciclaje
+        br
+        br
+        p Si los componentes son para reciclaje y transformación pueden ser clasificados en cajas ordinarias, tal como se evidencia en la imagen.
+
+    Separador
+
+    .titulo-segundo.color-acento-contenido
       h2#t_3_3 3.3 Técnicas de manipulación de cargas
 
     .d-flex.flex-wrap.align-items-center.mb-5

@@ -31,33 +31,33 @@
 
     .d-flex.flex-wrap.align-items-center.mb-5
       .col-xl-6.order-2.order-xl-1
-        LineaTiempoD.color-primario
+        LineaTiempoD.color-primario.linea-tiempo-edit
           .d-block(numero="A" titulo="Separación tradicional")
             p.text-small La forma más común, de separación de componentes, se hace de la siguiente manera:
             ul
-              li.d-flex.align-items-center
-                <svg style="width: 9px; min-width: 9px" id="Grupo_944" data-name="Grupo 944" xmlns="http://www.w3.org/2000/svg" width="8.621" height="14.674" viewBox="0 0 8.621 14.674">
+              li.d-flex.align-items-start
+                <svg style="width: 9px; min-width: 9px; margin-top: .2rem" id="Grupo_944" data-name="Grupo 944" xmlns="http://www.w3.org/2000/svg" width="8.621" height="14.674" viewBox="0 0 8.621 14.674">
                   <g id="Grupo_423" data-name="Grupo 423">
                     <path id="Trazado_635" data-name="Trazado 635" d="M8.385,6.763,1.856.234A.8.8,0,0,0,.725.23l0,0L.24.715a.8.8,0,0,0,0,1.131l0,0L5.722,7.332.234,12.82a.8.8,0,0,0,0,1.131l0,0,.481.481a.8.8,0,0,0,1.131,0l0,0L8.385,7.9a.81.81,0,0,0,0-1.139Z" transform="translate(0.002 0.002)" fill="#a50491"/>
                   </g>
                 </svg>
                 p.mb-0.ps-2 Separación de aparatos reusables.
-              li.d-flex.align-items-center
-                <svg style="width: 9px; min-width: 9px" id="Grupo_944" data-name="Grupo 944" xmlns="http://www.w3.org/2000/svg" width="8.621" height="14.674" viewBox="0 0 8.621 14.674">
+              li.d-flex.align-items-start
+                <svg style="width: 9px; min-width: 9px; margin-top: .2rem" id="Grupo_944" data-name="Grupo 944" xmlns="http://www.w3.org/2000/svg" width="8.621" height="14.674" viewBox="0 0 8.621 14.674">
                   <g id="Grupo_423" data-name="Grupo 423">
                     <path id="Trazado_635" data-name="Trazado 635" d="M8.385,6.763,1.856.234A.8.8,0,0,0,.725.23l0,0L.24.715a.8.8,0,0,0,0,1.131l0,0L5.722,7.332.234,12.82a.8.8,0,0,0,0,1.131l0,0,.481.481a.8.8,0,0,0,1.131,0l0,0L8.385,7.9a.81.81,0,0,0,0-1.139Z" transform="translate(0.002 0.002)" fill="#a50491"/>
                   </g>
                 </svg>
                 p.mb-0.ps-2 Descontaminación: remoción segura y disposición controlada de componentes peligrosos.
-              li.d-flex.align-items-center
-                <svg style="width: 9px; min-width: 9px" id="Grupo_944" data-name="Grupo 944" xmlns="http://www.w3.org/2000/svg" width="8.621" height="14.674" viewBox="0 0 8.621 14.674">
+              li.d-flex.align-items-start
+                <svg style="width: 9px; min-width: 9px; margin-top: .2rem" id="Grupo_944" data-name="Grupo 944" xmlns="http://www.w3.org/2000/svg" width="8.621" height="14.674" viewBox="0 0 8.621 14.674">
                   <g id="Grupo_423" data-name="Grupo 423">
                     <path id="Trazado_635" data-name="Trazado 635" d="M8.385,6.763,1.856.234A.8.8,0,0,0,.725.23l0,0L.24.715a.8.8,0,0,0,0,1.131l0,0L5.722,7.332.234,12.82a.8.8,0,0,0,0,1.131l0,0,.481.481a.8.8,0,0,0,1.131,0l0,0L8.385,7.9a.81.81,0,0,0,0-1.139Z" transform="translate(0.002 0.002)" fill="#a50491"/>
                   </g>
                 </svg>
                 p.mb-0.ps-2 Proveer materiales valorizables (como metales preciosos, metales de tierras raras) para recuperación sin pérdidas.
-              li.d-flex.align-items-center
-                <svg style="width: 9px; min-width: 9px" id="Grupo_944" data-name="Grupo 944" xmlns="http://www.w3.org/2000/svg" width="8.621" height="14.674" viewBox="0 0 8.621 14.674">
+              li.d-flex.align-items-start
+                <svg style="width: 9px; min-width: 9px; margin-top: .2rem" id="Grupo_944" data-name="Grupo 944" xmlns="http://www.w3.org/2000/svg" width="8.621" height="14.674" viewBox="0 0 8.621 14.674">
                   <g id="Grupo_423" data-name="Grupo 423">
                     <path id="Trazado_635" data-name="Trazado 635" d="M8.385,6.763,1.856.234A.8.8,0,0,0,.725.23l0,0L.24.715a.8.8,0,0,0,0,1.131l0,0L5.722,7.332.234,12.82a.8.8,0,0,0,0,1.131l0,0,.481.481a.8.8,0,0,0,1.131,0l0,0L8.385,7.9a.81.81,0,0,0,0-1.139Z" transform="translate(0.002 0.002)" fill="#a50491"/>
                   </g>
@@ -68,22 +68,22 @@
           .d-block(numero="B" titulo="Separación por niveles")
             p.text-small Esta clasificación también se hace por niveles:
             ul
-              li.d-flex.align-items-center.mb-4
-                <svg style="width: 9px; min-width: 9px" id="Grupo_944" data-name="Grupo 944" xmlns="http://www.w3.org/2000/svg" width="8.621" height="14.674" viewBox="0 0 8.621 14.674">
+              li.d-flex.align-items-start.mb-4
+                <svg style="width: 9px; min-width: 9px; margin-top: .2rem" id="Grupo_944" data-name="Grupo 944" xmlns="http://www.w3.org/2000/svg" width="8.621" height="14.674" viewBox="0 0 8.621 14.674">
                   <g id="Grupo_423" data-name="Grupo 423">
                     <path id="Trazado_635" data-name="Trazado 635" d="M8.385,6.763,1.856.234A.8.8,0,0,0,.725.23l0,0L.24.715a.8.8,0,0,0,0,1.131l0,0L5.722,7.332.234,12.82a.8.8,0,0,0,0,1.131l0,0,.481.481a.8.8,0,0,0,1.131,0l0,0L8.385,7.9a.81.81,0,0,0,0-1.139Z" transform="translate(0.002 0.002)" fill="#a50491"/>
                   </g>
                 </svg>
                 p.mb-0.ps-2 #[b Nivel A.] Sólo se retiran componentes peligrosos y componentes de alto valor, como tarjetas de circuito impreso; las partes restantes se envían a separación mecánica / reciclaje.
-              li.d-flex.align-items-center.mb-4
-                <svg style="width: 9px; min-width: 9px" id="Grupo_944" data-name="Grupo 944" xmlns="http://www.w3.org/2000/svg" width="8.621" height="14.674" viewBox="0 0 8.621 14.674">
+              li.d-flex.align-items-start.mb-4
+                <svg style="width: 9px; min-width: 9px; margin-top: .2rem" id="Grupo_944" data-name="Grupo 944" xmlns="http://www.w3.org/2000/svg" width="8.621" height="14.674" viewBox="0 0 8.621 14.674">
                   <g id="Grupo_423" data-name="Grupo 423">
                     <path id="Trazado_635" data-name="Trazado 635" d="M8.385,6.763,1.856.234A.8.8,0,0,0,.725.23l0,0L.24.715a.8.8,0,0,0,0,1.131l0,0L5.722,7.332.234,12.82a.8.8,0,0,0,0,1.131l0,0,.481.481a.8.8,0,0,0,1.131,0l0,0L8.385,7.9a.81.81,0,0,0,0-1.139Z" transform="translate(0.002 0.002)" fill="#a50491"/>
                   </g>
                 </svg>
                 p.mb-0.ps-2 #[b Nivel B.] Además de remover componentes peligrosos, el desensamble manual de componentes en materiales más o menos puros y fracciones reciclables se realiza si es viable con un esfuerzo razonable.
-              li.d-flex.align-items-center.mb-4
-                <svg style="width: 9px; min-width: 9px" id="Grupo_944" data-name="Grupo 944" xmlns="http://www.w3.org/2000/svg" width="8.621" height="14.674" viewBox="0 0 8.621 14.674">
+              li.d-flex.align-items-start.mb-4
+                <svg style="width: 9px; min-width: 9px; margin-top: .2rem" id="Grupo_944" data-name="Grupo 944" xmlns="http://www.w3.org/2000/svg" width="8.621" height="14.674" viewBox="0 0 8.621 14.674">
                   <g id="Grupo_423" data-name="Grupo 423">
                     <path id="Trazado_635" data-name="Trazado 635" d="M8.385,6.763,1.856.234A.8.8,0,0,0,.725.23l0,0L.24.715a.8.8,0,0,0,0,1.131l0,0L5.722,7.332.234,12.82a.8.8,0,0,0,0,1.131l0,0,.481.481a.8.8,0,0,0,1.131,0l0,0L8.385,7.9a.81.81,0,0,0,0-1.139Z" transform="translate(0.002 0.002)" fill="#a50491"/>
                   </g>
@@ -394,7 +394,7 @@
     
     .d-flex.flex-wrap.mb-5
       .col-xl-8.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1
-        p Los residuos de aparatos eléctricos y electrónicos se pueden clasificar dependiendo de su destino final. En el proceso inicial de separación, se determinan algunas características, lo que hace más fácil la separación. El mercado de reciclaje para las fracciones de RAEE es muy cambiante, el reuso y otras áreas pueden ser muy provechosas.
+        p Cuando se habla de disposición final de residuos, es porque ya no hay nada más que hacer con ellos, esta es quizás la frase que no quiere escuchar una empresa dedicada a procesar residuos electrónicos y que espera obtener alguna ganancia. Esta disposición final, muchas veces hace incurrir en gastos extras. Por ejemplo, el tubo de rayos catódicos de un monitor, contiene fósforo en polvo, mercurio y otras sustancias peligrosas, por norma general deben ser dispuestos sin que causen daños al medio ambiente, no son aprovechables, y los costos de transporte y almacenamiento son excesivos.
         .cajon.color-secundario.p-4.d-flex.flex-wrap(style="background-color: #EFDBEF")
           img.mb-4.mb-lg-0.col-lg-1.mx-auto(src="@/assets/curso/temas/tema2/decorador-1.svg" style="max-width: 70px")
           .col-md-11.ps-lg-4
@@ -406,8 +406,8 @@
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido
-        h5 Figura 6.
-        span Clasificación
+        h5 Figura 7.
+        span Disposición final
       .d-flex.flex-wrap.p-4.edit-bg-t2(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/bg-1.svg')})`}"
       )
@@ -425,7 +425,7 @@
                 img(src='@/assets/curso/temas/tema2/decorador-3.svg' style="max-width: 70px")
               .tarjeta(style="margin-left: -13%; background-color: #FDF2C8; border: 2px solid #FFD947")
                 .p-3
-                  p.mb-0 Incineración con alta temperatura para residuos peligrosos en espacios adecuados para ello.
+                  p.mb-0 Disposición final en relleno de seguridad.
         img.col-lg-5.mx-auto.mb-4.mb-lg-0.order-1.order-lg-2.banner-principal-decorativo-1.position-relative(src="@/assets/curso/temas/tema2/img-6.svg" style="right: 0; max-width: 300px")
     p.mb-5 A los acumuladores y baterías pequeñas, por su parte, se les debe hacer un tratamiento especial para su disposición final. #[b(style="color: #A50491") Es importante que se les dé un uso adecuado ya que estas contienen sustancias que resultan perjudiciales para el medio ambiente y la salud.]
 
@@ -503,4 +503,13 @@ export default {
       margin-left: .8rem
     .fa-chevron-right:before
       margin-right: .8rem
+.linea-tiempo-edit
+  .linea-tiempo-d__item__content
+    transition: all .3s linear
+  .linea-tiempo-d__item--selected
+    .linea-tiempo-d__item__number
+      background-color: #F5D0F0 !important
+      color: black !important
+    .linea-tiempo-d__item__content
+      background-color: #F5D0F0 !important
 </style>
