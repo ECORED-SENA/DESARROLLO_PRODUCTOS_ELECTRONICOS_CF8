@@ -135,7 +135,7 @@
                     <path id="Trazado_635" data-name="Trazado 635" d="M6.508,5.249,1.44.181a.621.621,0,0,0-.878,0l0,0L.186.555a.621.621,0,0,0,0,.878l0,0L4.441,5.691.181,9.951a.621.621,0,0,0,0,.878l0,0,.373.373a.621.621,0,0,0,.878,0l0,0L6.508,6.132a.629.629,0,0,0,0-.884Z" transform="translate(0.002 0.002)" fill="#00cca7"/>
                   </g>
                 </svg>
-                p.mb-0.ps-2(style="font-size: 14px") Acumuladroes
+                p.mb-0.ps-2(style="font-size: 14px") Acumuladores
               li.d-flex.align-items-center
                 <svg style="width: 9px; min-width: 9px" id="Grupo_944" data-name="Grupo 944" xmlns="http://www.w3.org/2000/svg" width="6.692" height="11.391" viewBox="0 0 6.692 11.391">
                   <g id="Grupo_423" data-name="Grupo 423">
@@ -184,7 +184,7 @@
                     <path id="Trazado_635" data-name="Trazado 635" d="M6.508,5.249,1.44.181a.621.621,0,0,0-.878,0l0,0L.186.555a.621.621,0,0,0,0,.878l0,0L4.441,5.691.181,9.951a.621.621,0,0,0,0,.878l0,0,.373.373a.621.621,0,0,0,.878,0l0,0L6.508,6.132a.629.629,0,0,0,0-.884Z" transform="translate(0.002 0.002)" fill="#00cca7"/>
                   </g>
                 </svg>
-                p.mb-0.ps-2(style="font-size: 14px") SinPlásticos con retardantes (BFRs)
+                p.mb-0.ps-2(style="font-size: 14px") Plásticos con retardantes (BFRs)
               li.d-flex.align-items-center
                 <svg style="width: 9px; min-width: 9px" id="Grupo_944" data-name="Grupo 944" xmlns="http://www.w3.org/2000/svg" width="6.692" height="11.391" viewBox="0 0 6.692 11.391">
                   <g id="Grupo_423" data-name="Grupo 423">
@@ -414,7 +414,7 @@
         data-aos="fade-right"
       )
         .col-lg-7.order-2.order-lg-1
-          h4.mb-4.texto-blanco ¿Qué hacer con los condensadores PCB y los condensadores electrolíticos que superan el criterio de la directiva RAEEE de la Unión Europea?
+          h4.mb-4.texto-blanco ¿Qué hacer con los condensadores PCB y los condensadores electrolíticos que superan el criterio de la directiva RAEE de la Unión Europea?
           .col-lg-10.mx-auto
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
@@ -444,7 +444,7 @@
           td Acumuladores de plomo de desecho, enteros o triturados.
         tr
           th A1170
-          td Acumuladores de desecho sin seleccionar excluidas mezclas de acumuladores sólo de las lista B. Los acumuladores de desecho no incluidos en la lista B que contengan constituyentes del anexo I en tal grado que los conviertan en peligrosos.
+          td Acumuladores de desecho sin seleccionar excluidas mezclas de acumuladores sólo de la lista B. Los acumuladores de desecho no incluidos en la lista B que contengan constituyentes del anexo I en tal grado que los conviertan en peligrosos.
       .tabla-b__header
         h4.text-start.mb-0(style="color: black") Lista B
       table

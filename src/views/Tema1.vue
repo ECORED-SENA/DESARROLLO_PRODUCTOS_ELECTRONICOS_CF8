@@ -98,7 +98,7 @@
         p.mb-0  Si se pretende trabajar con la gestión de residuos, es importante contar con algunas herramientas, si solo se le va a dar tratamiento primario para mandar a disposición, es probable que se requieran pocas de estas. Para desensamblar residuos de aparatos eléctricos y electrónicos, es probable que se necesite desde un simple destornillador hasta una cortadora eléctrica; también es necesario contar con contenedores para clasificar los componentes por separados. 
 
     .bg-img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/bg-t1-2.svg')})`}")
-      p.mb-5(data-aos="fade-right") En términos generales, se necesitarán las mismas herramientas utilizadas para cualquier trabajo electrónico; las más comunes son: #[b(style="color: #A50491") destornilladores de diferentes tipos y dimensiones (Pala, Estrella, Hexa, Torx, etc) pinzas, cautín, llaves de diferentes dimensiones y segueta.] En cuanto a equipos se necesitarán algunos adicionales, si el propósito es separar materiales; esto dependerá del tipo de trabajo a realizar en la separación. Si se va a extraer el oro de los chips, por su parte, será necesario contar con productos químicos, pero este trabajo ya está destinado a empresas debidamente autorizadas.
+      p.mb-5(data-aos="fade-right") En términos generales, se necesitarán las mismas herramientas utilizadas para cualquier trabajo electrónico; las más comunes son: #[b(style="color: #A50491") destornilladores de diferentes tipos y dimensiones (Pala, Estrella, Hexa, Torx, etc.) pinzas, cautín, llaves de diferentes dimensiones y segueta.] En cuanto a equipos se necesitarán algunos adicionales, si el propósito es separar materiales; esto dependerá del tipo de trabajo a realizar en la separación. Si se va a extraer el oro de los chips, por su parte, será necesario contar con productos químicos, pero este trabajo ya está destinado a empresas debidamente autorizadas.
       Separador.w-100
       .titulo-segundo.color-acento-contenido
         h2#t_1_3 1.3 Ética
@@ -180,7 +180,7 @@
         img.mb-4(src="@/assets/curso/temas/tema1/modal-1.svg")
         TarjetaAudio.col-12.col-md-6.mx-auto.color-acento-botones.mb-3(
           texto=""
-          :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+          :audio="require('@/assets/curso/temas/tema1/audio.wav')"
           @audio-hover="mostrarIndicadorTarjetaAudio = false"
         )
           .indicador--click(v-if="mostrarIndicadorTarjetaAudio")

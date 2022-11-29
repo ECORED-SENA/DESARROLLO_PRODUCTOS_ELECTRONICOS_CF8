@@ -170,14 +170,14 @@ export default {
       link:
         'http://www.residuoselectronicos.net/wp-content/uploads/2012/03/Guia_RAEE_MADS_2011-reducida.pdf',
     },
-    {
-      tema: 'Clasificación de residuos de aparatos eléctricos y electrónicos',
-      referencia:
-        'Ministerio del medio ambiente. (s.f.) <em>Política nacional. Gestión integral de residuos de aparatos eléctricos y electrónicos.</em>',
-      tipo: 'Página <em>web</em>',
-      link:
-        'https://www.minambiente.gov.co/images/AsuntosambientalesySectorialyUrbana/pdf/e-book_rae_/contenido_2_1_1.html',
-    },
+    // {
+    //   tema: 'Clasificación de residuos de aparatos eléctricos y electrónicos',
+    //   referencia:
+    //     'Ministerio del medio ambiente. (s.f.) <em>Política nacional. Gestión integral de residuos de aparatos eléctricos y electrónicos.</em>',
+    //   tipo: 'Página <em>web</em>',
+    //   link:
+    //     'https://www.minambiente.gov.co/images/AsuntosambientalesySectorialyUrbana/pdf/e-book_rae_/contenido_2_1_1.html',
+    // },
     {
       tema: 'Clasificación de residuos de aparatos eléctricos y electrónicos',
       referencia:
@@ -215,13 +215,13 @@ export default {
       link:
         'http://www.upme.gov.co/guia_ambiental/carbon/gestion/politica/normativ/normativ.htm#BM1__NORMATIVIDAD_GENERAL',
     },
-    {
-      tema: 'Riesgo',
-      referencia:
-        'RT en Español. (2015). <em>El vertedero electrónico - Documental de RT</em> (Video). YouTube.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=lGdgtUDE9TY',
-    },
+    // {
+    //   tema: 'Riesgo',
+    //   referencia:
+    //     'RT en Español. (2015). <em>El vertedero electrónico - Documental de RT</em> (Video). YouTube.',
+    //   tipo: 'Video',
+    //   link: 'https://www.youtube.com/watch?v=lGdgtUDE9TY',
+    // },
   ],
   glosario: [
     {
@@ -314,41 +314,48 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Diseño web',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy Maria Ruiz Torres',
         cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Locución',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Jhon Edinson Castañeda Oviedo',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Validación audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Laura Gisselle Murcia Pardo',
+        cargo: 'Validación audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Mayra Alejandra Alvarez ',
         cargo: 'Validación de diseño y contenido',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Fabian zarate',
+        cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
-      {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',

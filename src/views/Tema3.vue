@@ -37,7 +37,7 @@
         .d-flex.flex-wrap.align-items-start(data-aos="fade-left")
           img.mb-4.mb-lg-0.col-lg-1.mx-auto(src="@/assets/curso/temas/tema3/decorador.svg" style="max-width: 70px")
           .col-md-11.ps-lg-4
-            p Esta ley se complementa con un documento llamado #[b(style="color: #A50491") “Lineamientos Técnicos para el Manejo de Residuos de Aparatos Eléctricos y Electrónicos”] emitido por el Ministerio del medio ambiente, pero en colombia existe un problema cultural, por lo que las personas en su afán de ganar algo de dinero, no les importa el daño ambiental y salubridad en los demás; por ello, es común ver la mala disposición de estos residuos.
+            p Esta ley se complementa con un documento llamado #[b(style="color: #A50491") “Lineamientos Técnicos para el Manejo de Residuos de Aparatos Eléctricos y Electrónicos”] emitido por el Ministerio del medio ambiente, pero en Colombia existe un problema cultural, por lo que las personas en su afán de ganar algo de dinero, no les importa el daño ambiental y salubridad en los demás; por ello, es común ver la mala disposición de estos residuos.
     Separador
 
     .titulo-segundo.color-acento-contenido
@@ -75,10 +75,10 @@
     .p-3.mb-4.d-flex.flex-wrap.align-items-center
       img.mb-4.mb-lg-0.col-lg-1.mx-auto(src="@/assets/curso/temas/tema3/decorador-2.svg" data-aos="fade-right" style="max-width: 85px")
       .col-md-11.ps-lg-4(data-aos="fade-left")
-        p.mb-0 Con excepción de los componentes con productos químicos volátiles, como los toner de impresoras, no existe mayor riesgo para el almacenamiento de los residuos, las medidas que se deben tomar son para proteger al mismo componente, sobre todo si el fin es la reutilización.
+        p.mb-0 Con excepción de los componentes con productos químicos volátiles, como los tóner de impresoras, no existe mayor riesgo para el almacenamiento de los residuos, las medidas que se deben tomar son para proteger al mismo componente, sobre todo si el fin es la reutilización.
           br
           br
-          |Muchos componentes electrónicos necesitan ser protegidos contra las descargas electrostáticas por lo que su almacenamiento requiere de bolsas o esponjas que los aislen de estas descargas. 
+          |Muchos componentes electrónicos necesitan ser protegidos contra las descargas electrostáticas por lo que su almacenamiento requiere de bolsas o esponjas que los aíslen de estas descargas. 
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
